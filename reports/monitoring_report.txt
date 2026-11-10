@@ -1,0 +1,219 @@
+MULTI-SERVER MONITORING REPORT
+========================================
+Generated: 2026-11-10 18:40:45.142863
+
+DATABASE SUMMARY
+----------------------------------------
+Total Servers: 4
+Health Records: 160
+Total Alerts: 200
+
+REGISTERED SERVERS
+----------------------------------------
+Web Server - 192.168.1.101
+Database Server - 192.168.1.102
+File Server - 192.168.1.103
+Backup Server - 192.168.1.104
+
+ALERT HISTORY
+----------------------------------------
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:10:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:10:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:10:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:10:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:10:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:09:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:09:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:09:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:09:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:09:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:08:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:08:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:08:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:08:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:08:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:07:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:07:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:07:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:07:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:07:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:06:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:06:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:06:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:06:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:06:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:05:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:05:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:05:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:05:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:05:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:04:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:04:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:04:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:04:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:04:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:03:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:03:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:03:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:03:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:03:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:03:09
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:03:09
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:03:09
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:03:09
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:03:09
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:02:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:02:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:02:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:02:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:02:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:01:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:01:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:01:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:01:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:01:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:00:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:00:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:00:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:00:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:00:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:00:10
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:00:10
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:00:10
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:00:10
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:00:10
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:58:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:58:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:58:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:58:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:58:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:57:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:57:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:57:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:57:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:57:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:56:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:56:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:56:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:56:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:56:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:56:37
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:56:37
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:56:37
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:56:37
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:56:37
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:55:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:55:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:55:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:55:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:55:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:54:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:54:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:54:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:54:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:54:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:53:37
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:53:37
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:53:37
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:53:37
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:53:37
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:53:23
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:53:23
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:53:23
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:53:23
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:53:23
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:52:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:52:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:52:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:52:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:52:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:51:20
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:51:20
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:51:20
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:51:20
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:51:20
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:50:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:50:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:50:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:50:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:50:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:49:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:49:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:49:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:49:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:49:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:48:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:48:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:48:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:48:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:48:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:47:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:47:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:47:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:47:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:47:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:46:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:46:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:46:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:46:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:46:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:45:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:45:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:45:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:45:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:45:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:44:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:44:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:44:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:44:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:44:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:43:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:43:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:43:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:43:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:43:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:42:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:42:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:42:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:42:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:42:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:41:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:41:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:41:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:41:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:41:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:40:47
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:40:47
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:40:47
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:40:47
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:40:47
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:40:16
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:40:16
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:40:16
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:40:16
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:40:16
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:38:43
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:38:43
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:38:43
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:38:43
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:38:43
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:38:13
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:38:13
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:38:13
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:38:13
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:38:13
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:37:43
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:37:43
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:37:43
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:37:43
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:37:43
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:31:56
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:31:56
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:31:56
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:31:56
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:31:56
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 12:30:51
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 12:30:51
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 12:30:51
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 12:30:51
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 12:30:51
