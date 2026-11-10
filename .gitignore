@@ -19,3 +19,7 @@ logs/*.log
 # Editor and operating system files
 .vscode/
 .DS_Store
+
+# Automatically generated monitoring reports
+/reports/health_report.csv
+/reports/monitoring_report.txt
