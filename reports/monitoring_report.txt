@@ -1,12 +1,12 @@
 MULTI-SERVER MONITORING REPORT
 ========================================
-Generated: 2026-11-10 18:40:45.142863
+Generated: 2026-11-10 18:42:45.153217
 
 DATABASE SUMMARY
 ----------------------------------------
 Total Servers: 4
-Health Records: 160
-Total Alerts: 200
+Health Records: 168
+Total Alerts: 210
 
 REGISTERED SERVERS
 ----------------------------------------
@@ -17,6 +17,16 @@ Backup Server - 192.168.1.104
 
 ALERT HISTORY
 ----------------------------------------
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:12:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:12:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:12:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:12:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:12:45
+Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:11:45
+File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:11:45
+File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:11:45
+File Server | CRITICAL | CPU usage is critically high: 94% | 2026-11-10 13:11:45
+Database Server | WARNING | CPU usage is high: 82% | 2026-11-10 13:11:45
 Backup Server | CRITICAL | Server is offline or unavailable | 2026-11-10 13:10:45
 File Server | WARNING | Disk usage is high: 88% | 2026-11-10 13:10:45
 File Server | CRITICAL | RAM usage is critically high: 91% | 2026-11-10 13:10:45
